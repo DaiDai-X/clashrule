@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "hhanclub.top",
+        "m-team.cc",
+        "piggo.me",
+      ]
+    }
+  ]
+}
